@@ -143,3 +143,4 @@ Outputs:
   FrontendURL:
     Description: "URL pública del frontend"
     Value: !Sub "https://${FrontendDistribution.DomainName}"
+    
